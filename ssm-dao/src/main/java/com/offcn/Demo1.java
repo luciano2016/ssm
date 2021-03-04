@@ -7,6 +7,6 @@ package com.offcn;
  */
 public class Demo1 {
     public static void main(String[] args) {
-        System.out.println("你好，李焕英！12爱仕达");
+        System.out.println("你好，李焕英！12爱仕达6666");
     }
 }
