@@ -7,7 +7,6 @@ package com.offcn;
  */
 public class Demo1 {
     public static void main(String[] args) {
-        System.out.println("主分支！");
-        System.out.println("111在分支测试修改了分支1");
+        System.out.println("分支demo！");
     }
 }
